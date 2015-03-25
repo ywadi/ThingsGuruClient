@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Ultrasound
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ThingsGuru	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+sendData 	KEYWORD2
+disconnect 	KEYWORD2
+loop 		KEYWORD2
+connect		KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
