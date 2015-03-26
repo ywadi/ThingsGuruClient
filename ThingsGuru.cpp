@@ -142,7 +142,7 @@ void ThingsGuru::sendData()
 	}
 	else
 	{
-		dataPack = " ";
+		dataPack = "";
 	}
 }
 
